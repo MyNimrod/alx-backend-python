@@ -24,4 +24,10 @@ Create a measure_time function with integers n and max_delay as arguments that m
 
 Use the time module to measure an approximate elapsed time.
 
+### 0x01-python_async_function
+
+Import wait_random from 0-basic_async_syntax.
+
+Write a function (do not create an async function, use the regular function syntax to do this) task_wait_random that takes an integer max_delay and returns a asyncio.Task.
+
 
